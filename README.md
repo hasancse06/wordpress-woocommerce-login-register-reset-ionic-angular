@@ -48,15 +48,9 @@ cd woocommerce-auth-ionic-angular
 npm install
 ionic serve
 ```
+## Screenshot
 
-## 🧠 SEO Keywords
-
-> ionic angular woocommerce login register reset password  
-> wordpress jwt auth mobile app  
-> reset woocommerce password API mobile  
-> headless ecommerce app authentication  
-> ionic wordpress rest api login reset
-
+![Screenshot](log-in.png)
    
 ## 🙌 Author
 
