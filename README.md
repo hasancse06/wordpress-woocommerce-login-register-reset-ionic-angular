@@ -50,8 +50,7 @@ ionic serve
 ```
 ## Screenshot
 
-![Screenshot](log-in.png)
-![Screenshot](password-reset.png)
+![Screenshot](screenshot-1.jpg)
    
 ## 🙌 Author
 
